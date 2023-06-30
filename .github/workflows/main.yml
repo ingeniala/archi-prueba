@@ -1,4 +1,4 @@
-mainjobs:
+jobs:
   archi_report:
     permissions:
       contents: write
